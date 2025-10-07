@@ -132,6 +132,10 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Brice Arrigo</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">The University of Melbourne</span></td>
   </tr>
+    <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Michal Botur</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Palacký University Olomouc</span></td>
+  </tr>
    <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Luka Carroll</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Western Sydney University</span></td>
@@ -168,12 +172,24 @@ The [Gordon Preston Prize](https://sites.google.com/a/ltumathstats.com/austalg/g
     <td class="tg-7zrl"><span style="font-weight:normal">Stephen Glasby</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">University of Western Australia</span></td>
   </tr>
+      <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Deborah Jackson</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">La Trobe University and Sydney University</span></td>
+  </tr>
+       <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Clive Jackson</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal"></span></td>
+  </tr>
             <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Seethalakshmi Kayanattath</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Australian National University</span></td>
   </tr>
       <tr>
     <td class="tg-7zrl"><span style="font-weight:normal">Melissa Lee</span></td>
+    <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
+  </tr>
+        <tr>
+    <td class="tg-7zrl"><span style="font-weight:normal">Shir Levav-Porat</span></td>
     <td class="tg-7zrl"><span style="font-weight:normal">Monash University</span></td>
   </tr>
         <tr>
